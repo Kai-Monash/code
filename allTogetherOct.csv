@@ -1,297 +1,297 @@
-Basic information,1,3,4,5,6,8,13,14,15,16,17,18,19,20,21,22,23,24
-What is your gender?,2,1,2,2,2,1,2,2,2,2,2,2,1,2,2,1,1,2
-Please indicate your age,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,3,2,1
-Please indicate your ethnic background (optional),4,7,7,7,4,6,8,8,8,8,4,7,3,3,7,3,1,7
-What is your highest level of education?,4,2,4,7,3,4,4,4,7,7,2,4,4,2,4,3,3,2
-How would you rate your technology expertise?,2,2,2,2,2,3,2,2,2,2,3,2,2,3,2,2,3,3
-How do you feel about including technology in your life?,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,0,1
-How would you rate your experience with smart homes or monitoring devices in homes; such as sensors and Amazon Echo?,1,2,1,1,1,1,2,1,2,1,1,1,2,2,2,1,2,3
-Propensity Questions,,,,,,,,,,,,,,,,,,
-I usually trust machines until there is a reason not to,4,4,4,5,4,2,4,4,3,4,4,4,4,5,4,3,5,4
-For the most part; I distrust machines,3,2,2,2,2,3,2,2,3,2,2,2,2,1,2,3,1,2
-In general; I would rely on a machine to assist me,4,3,4,5,4,4,4,4,4,4,4,5,3,5,3,2,5,4
-My tendency to trust machines is high,2,4,4,5,2,3,4,4,4,4,4,4,4,5,3,3,5,3
-It is difficult for me to trust machines to do their job,4,2,2,2,3,2,2,2,4,2,2,2,2,1,2,3,1,2
-I am likely to trust a machine even when I have little knowledge about it,1,2,3,2,4,2,2,2,3,3,4,5,2,4,3,3,2,4
-PostStageSurveys 1st-ST1,,,,,,,,,,,,,,,,,,
-How often did you attend to the system's alerts?,5,5,5,4,4,4,5,5,4,5,5,4,4,5,4,4,5,4
-How often did you check on the residents?,4,1,3,2,4,2,3,5,4,4,4,2,4,2,3,3,3,4
-How much do you think this monitoring system needs to improve so you won't feel the need to check on residents at all?,4,3,2,4,3,3,3,3,2,3,3,4,3,3,3,3,4,4
-What is the biggest aspect that needs improvement in this monitoring system? (optional),Not being able to monitor the residents as the monitor did not detect some events that happened,False alerts,,Accuracy,,false reports,,,,missed events,missed events,Its trustworthiness needs to be improved and false alerts need to stop. Mild alerts shouldn't be needed as often..,it's own rating of likelihood that the alert it gives is real,More accurate 'nothing is new'; as it popped up when there was a risk which wasn't reported,the accuracy,false alarms,Missing alerts,Exxperiment poorly explained
-PLEASE INDICATE HOW MUCH YOU AGREE WITH THE FOLLOWING STATEMENTS.,,,,,,,,,,,,,,,,,,
-I can rely on this monitoring system to function properly,4,3,5,3,4,4,4,4,4,4,4,4,4,4,4,3,1,1
-I know how to use this monitoring system to perform well (even if I don't know exactly how it works) ,4,4,4,3,4,4,4,4,4,4,2,4,4,5,4,4,4,1
-I know how to use this monitoring system to take care of the residents (even if I don't know exactly how it works) ,4,4,4,3,4,4,4,4,4,4,3,4,4,5,4,4,1,1
-This monitoring system is dependable,3,3,4,3,3,4,4,4,4,4,4,3,4,4,4,4,1,1
-I would use such a monitoring system for an elderly family member,2,3,4,3,3,4,4,4,4,4,4,2,4,4,4,3,1,1
-This monitoring system's actions will have a harmful outcome,3,2,3,3,2,1,3,2,3,2,2,2,3,1,2,3,5,4
-My decisions were the most appropriate ones,4,4,4,4,4,4,4,4,4,4,2,4,3,4,3,4,3,1
-PostStageSurveys 1st-ST2,,,,,,,,,,,,,,,,,,
-How often did you attend to the system's alerts?,5,5,5,5,5,2,5,5,4,5,5,4,5,5,4,5,5,3
-How often did you check on the residents?,4,2,2,3,5,2,3,5,3,3,3,1,2,4,4,5,2,3
-How much do you think this monitoring system needs to improve so you won't feel the need to check on residents at all?,3,2,2,4,2,4,2,2,2,3,2,3,2,3,3,4,3,3
-What is the biggest aspect that needs improvement in this monitoring system? (optional),false alerts,False Alerts,,Accuracy,,false alerts,,,the temperature alert,false alerts,,It functions better than the first system. still; it would need improvement to better the accuracy of the alerts. There are false alerts still being sent out,,When i checked in; everyone was fine,accuracy,false alarm,,
-PLEASE INDICATE HOW MUCH YOU AGREE WITH THE FOLLOWING STATEMENTS.,,,,,,,,,,,,,,,,,,
-I can rely on this monitoring system to function properly,3,3,5,3,4,3,5,4,4,4,4,4,5,5,4,3,2,2
-I know how to use this monitoring system to perform well (even if I don't know exactly how it works) ,4,4,4,3,4,3,4,4,4,4,4,4,5,5,4,4,2,4
-I know how to use this monitoring system to take care of the residents (even if I don't know exactly how it works) ,4,4,5,3,4,4,4,4,4,4,4,4,5,5,4,4,2,4
-This monitoring system is dependable,4,3,5,2,4,3,4,4,4,4,4,4,4,5,4,3,2,2
-I would use such a monitoring system for an elderly family member,4,4,5,2,4,4,4,4,4,4,4,2,5,5,4,3,2,3
-This monitoring system's actions will have a harmful outcome,3,2,2,3,2,2,3,2,3,2,2,2,2,1,2,3,4,3
-My decisions were the most appropriate ones,5,4,4,4,4,2,4,4,4,4,3,4,4,5,4,4,5,4
-PostStageSurveys 2nd-ST1,,,,,,,,,,,,,,,,,,
-How often did you attend to the system's alerts?,5,5,5,4,5,5,5,5,5,4,4,3,5,5,2,5,5,3
-How often did you check on the residents?,5,2,1,4,5,3,5,4,4,4,3,1,3,4,3,4,4,3
-How much do you think this monitoring system needs to improve so you won't feel the need to check on residents at all?,4,4,2,4,4,3,4,3,2,3,4,4,3,4,3,4,4,3
-What is the biggest aspect that needs improvement in this monitoring system? (optional),too many false alerts,False Alerts,,Accuracy,,false alerts,too many false alerts/no alerts,,inactive alert,missed events,number of false alerts,This system is worse than the previous 2 systems in the sense that it sends out more false alerts. More false alerts lead to both rounds having a loss rather than profit/bonus. Thus; once again this system needsto improve on its alert system and the truthfulness of the alerts.,immediately getting an alert of someone not being checked for a long time after just checking on residents,Quicker alerts and less false alerts! Some risks were not picked up by the system at all,the event should include the percentage of accuracy for each event,false alarm,,
-PLEASE INDICATE HOW MUCH YOU AGREE WITH THE FOLLOWING STATEMENTS.,,,,,,,,,,,,,,,,,,
-I can rely on this monitoring system to function properly,4,2,4,2,2,3,2,4,4,4,2,2,4,4,3,2,3,3
-I know how to use this monitoring system to perform well (even if I don't know exactly how it works) ,4,4,4,3,3,4,3,4,4,4,2,2,4,5,4,4,4,2
-I know how to use this monitoring system to take care of the residents (even if I don't know exactly how it works) ,4,4,4,3,2,4,2,4,4,4,3,2,4,4,4,4,3,3
-This monitoring system is dependable,4,2,3,2,2,3,2,4,4,4,2,1,4,4,3,3,2,1
-I would use such a monitoring system for an elderly family member,2,3,4,2,1,2,2,4,4,4,2,1,4,4,4,2,2,3
-This monitoring system's actions will have a harmful outcome,3,2,2,3,3,3,4,3,3,2,4,5,2,1,2,3,3,1
-My decisions were the most appropriate ones,4,4,3,4,4,4,3,4,4,4,3,2,3,4,2,4,4,4
-PostStageSurveys 2nd-ST2,,,,,,,,,,,,,,,,,,
-How often did you attend to the system's alerts?,5,5,5,5,5,5,5,5,5,4,3,4,5,5,3,5,5,2
-How often did you check on the residents?,4,2,1,4,5,3,4,5,4,4,2,1,2,3,3,4,2,3
-How much do you think this monitoring system needs to improve so you won't feel the need to check on residents at all?,4,3,2,4,4,3,4,3,3,3,3,3,2,2,3,4,3,2
-What is the biggest aspect that needs improvement in this monitoring system? (optional),many false alerts,False Alerts,,Accuracy,,,high risk false alerts,,inactive and temperature alert,false alarm,,,,The false starts. The system is reliable as it mostly did not miss any issues; but there was a great number of false starts which are costly. This also makes you doubt the system so want to check on the residents,,false alarm,False reports,
-PLEASE INDICATE HOW MUCH YOU AGREE WITH THE FOLLOWING STATEMENTS.,,,,,,,,,,,,,,,,,,
-I can rely on this monitoring system to function properly,2,3,4,2,2,3,2,4,4,4,4,3,4,5,4,3,3,5
-I know how to use this monitoring system to perform well (even if I don't know exactly how it works) ,4,4,4,3,2,4,2,4,4,4,4,4,4,5,4,4,4,1
-I know how to use this monitoring system to take care of the residents (even if I don't know exactly how it works) ,4,4,4,3,2,4,2,4,4,4,3,4,4,5,4,4,3,2
-This monitoring system is dependable,2,3,4,2,2,2,2,4,4,4,3,3,4,5,4,3,3,5
-I would use such a monitoring system for an elderly family member,2,4,4,2,2,2,2,4,4,4,4,2,4,5,4,2,3,5
-This monitoring system's actions will have a harmful outcome,3,2,2,3,3,4,3,2,3,2,2,2,2,1,2,3,2,2
-My decisions were the most appropriate ones,4,4,4,4,4,4,3,4,4,4,4,4,3,5,4,4,4,5
-PostgameSurvey,,,,,,,,,,,,,,,,,,
-What was your main focus when playing the game? (tick all applicable boxes),,,,,,,,,,,,,,,,,,
-How difficult was your admin job in the experiment?,4,4,3,3,4,4,4,3,3,4,3,5,3,4,3,4,2,5
-How engaged were you with the experiment?,2,2,3,4,4,5,5,4,2,5,4,5,2,4,4,5,2,1
-How stressful was the experiment?,3,2,2,2,3,3,3,2,2,3,2,2,2,2,2,3,2,1
-How important was it for you to do well in the administration task (card game)?,3,3,3,4,1,3,2,3,3,3,3,4,3,4,3,2,3,1
-How important was it for you that the elderly residents are ok?,4,2,4,3,4,2,4,3,4,4,4,3,3,3,4,4,4,1
-How did you determine how much you trust the monitoring system?,3,3,3,1,2,1,1,3,3,1,3,1,1,3,3,1,1,3
-Was the tutorial video sufficiently helpful for understanding what you need to do?,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1
-Please suggest aspects that should be improved in the experiment (optional),,,,,,better explaneitions abour the consequences,,,temperature alert,,,,seemed odd that attending to events that were alerted from the monitoring system didn't cost resources. It would make more sense that attending any events are costly.,After checking on the elderly and the report was that they were fine; often instantly after there was an alert of a risk,,none,,Explain Properly
-Number of trials,1,1,1,1,2,1,1,2,1,1,1,2,1,1,1,1,1,2
-TrustScores,,,,,,,,,,,,,,,,,,
-exp1-st1-sec1,4,3,3,3,4,2,4,4,4,3,4,3,4,4,4,2,1,3
-exp1-st1-sec2,2,4,4,4,3,4,4,4,4,3,4,4,5,3,4,3,1,1
-exp1-st2-sec1,3,3,4,3,4,2,4,4,4,3,4,3,5,4,4,3,2,4
-exp1-st2-sec2,3,3,4,2,4,2,4,4,4,4,4,4,5,4,4,2,2,3
-exp2-st1-sec1,1,3,3,1,2,2,2,3,4,4,2,2,4,3,3,1,1,4
-exp2-st1-sec2,2,2,3,1,2,2,2,3,3,3,2,2,4,3,3,2,2,4
-exp2-st2-sec1,2,3,3,2,3,3,3,3,3,3,3,2,4,3,4,2,4,4
-exp2-st2-sec2,2,3,3,2,2,2,3,3,3,3,4,3,5,4,4,2,3,4
-Frequency Changes,,,,,,,,,,,,,,,,,,
-exp1-st1-sec1,High,Low,High,High,High,High,High,High,High,High,High,High,High,High,High,High,Disabled,High
-exp1-st2-sec1,Low,Disabled,Low,High,High,High,High,High,High,Disabled,High,High,High,Low,Low,High,Disabled,High
-exp2-st1-sec1,Low,Disabled,Low,High,High,High,High,High,High,Disabled,Low,High,High,Low,Low,High,Disabled,High
-exp2-st2-sec1,Low,Disabled,High,High,High,High,High,High,Low,Disabled,High,Low,High,Low,Low,Low,Low,High
-Num Tasks Total (card game),,,,,,,,,,,,,,,,,,
-trial,14,8,15,14,,16,14,,13,11,14,,16,15,15,13,16,
-exp1-st1-sec1,51,46,55,55,52,54,54,48,52,48,50,52,52,51,49,53,50,51
-exp1-st1-sec2,50,52,53,48,51,52,50,48,50,47,47,53,50,48,50,50,52,56
-exp1-st2-sec1,48,49,52,47,48,52,47,49,46,48,49,51,50,46,48,50,50,55
-exp1-st2-sec2,51,49,50,51,49,52,51,50,51,51,51,51,51,48,51,49,50,51
-exp2-st1-sec1,50,45,51,52,49,52,52,54,48,54,53,52,52,50,51,48,48,56
-exp2-st1-sec2,52,48,49,51,51,51,47,52,49,54,49,51,49,49,52,46,49,57
-exp2-st2-sec1,46,47,46,49,47,46,47,51,47,52,48,50,46,45,47,46,45,57
-exp2-st2-sec2,50,50,49,49,50,48,47,51,48,53,45,50,48,49,52,48,46,3
- Num Tasks Correct (card game),,,,,,,,,,,,,,,,,,
-trial,12,8,14,14,,15,11,,13,10,13,,15,14,14,13,15,
-exp1-st1-sec1,48,45,44,55,46,52,52,43,45,41,47,47,45,44,44,52,39,39
-exp1-st1-sec2,45,49,48,48,45,52,45,45,47,41,43,49,49,45,46,47,47,50
-exp1-st2-sec1,47,47,45,46,45,51,42,48,41,44,44,48,48,42,46,47,46,50
-exp1-st2-sec2,49,48,46,51,47,51,50,44,43,46,47,50,50,47,47,44,46,44
-exp2-st1-sec1,44,43,43,52,45,52,47,53,45,52,51,48,44,46,50,45,46,38
-exp2-st1-sec2,50,44,40,51,47,48,39,50,43,50,40,49,45,45,50,44,47,37
-exp2-st2-sec1,42,45,38,49,43,43,41,49,44,49,42,49,43,37,43,43,43,38
-exp2-st2-sec2,47,49,41,49,45,45,42,51,42,49,41,49,44,43,47,46,41,3
- Num Tasks Wrong (card game),,,,,,,,,,,,,,,,,,
-trial,2,0,1,0,,1,3,,0,1,1,,1,1,1,0,1,
-exp1-st1-sec1,3,1,11,0,6,2,2,5,7,7,3,5,7,7,5,1,11,12
-exp1-st1-sec2,5,3,5,0,6,0,5,3,3,6,4,4,1,3,4,3,5,6
-exp1-st2-sec1,1,2,7,1,3,1,5,1,5,4,5,3,2,4,2,3,4,5
-exp1-st2-sec2,2,1,4,0,2,1,1,6,8,5,4,1,1,1,4,5,4,7
-exp2-st1-sec1,6,2,8,0,4,0,5,1,3,2,2,4,8,4,1,3,2,18
-exp2-st1-sec2,2,4,9,0,4,3,8,2,6,4,9,2,4,4,2,2,2,20
-exp2-st2-sec1,4,2,8,0,4,3,6,2,3,3,6,1,3,8,4,3,2,19
-exp2-st2-sec2,3,1,8,0,5,3,5,0,6,4,4,1,4,6,5,2,5,0
- Num Attended Total,,,,,,,,,,,,,,,,,,
-trial,3,2,4,5,,4,5,,5,4,5,,5,3,5,2,3,
-exp1-st1-sec1,14,12,13,12,14,13,13,14,14,14,14,12,13,12,14,11,14,11
-exp1-st1-sec2,14,12,12,14,14,10,14,14,14,14,14,12,14,13,14,14,14,10
-exp1-st2-sec1,14,14,14,14,14,14,14,14,14,14,14,12,14,14,14,14,14,6
-exp1-st2-sec2,14,14,14,14,14,14,14,14,14,14,14,13,14,14,14,14,14,13
-exp2-st1-sec1,15,15,12,15,15,12,15,15,15,15,10,10,15,15,15,15,15,2
-exp2-st1-sec2,14,12,12,14,14,14,14,14,14,14,14,9,14,14,14,14,14,0
-exp2-st2-sec1,14,14,14,14,14,14,14,14,14,14,14,10,14,14,14,14,14,0
-exp2-st2-sec2,14,14,14,14,14,14,14,14,14,14,12,12,14,14,14,14,14,0
- Num Attended Low Risk,,,,,,,,,,,,,,,,,,
-trial,2,1,2,2,,2,2,,2,2,2,,2,2,2,1,2,
-exp1-st1-sec1,7,6,6,5,7,6,6,7,7,7,7,5,6,6,7,6,7,5
-exp1-st1-sec2,7,6,6,7,7,4,7,7,7,7,7,6,7,6,7,7,7,5
-exp1-st2-sec1,7,7,7,7,7,7,7,7,7,7,7,6,7,7,7,7,7,0
-exp1-st2-sec2,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,6
-exp2-st1-sec1,8,8,6,8,8,6,8,8,8,8,4,5,8,8,8,8,8,1
-exp2-st1-sec2,7,6,6,7,7,7,7,7,7,7,7,5,7,7,7,7,7,0
-exp2-st2-sec1,7,7,7,7,7,7,7,7,7,7,7,5,7,7,7,7,7,0
-exp2-st2-sec2,7,7,7,7,7,7,7,7,7,7,5,6,7,7,7,7,7,0
- Num Attended High Risk,,,,,,,,,,,,,,,,,,
-trial,1,1,2,3,,2,3,,3,2,3,,3,1,3,1,1,
-exp1-st1-sec1,7,6,7,7,7,7,7,7,7,7,7,7,7,6,7,5,7,6
-exp1-st1-sec2,7,6,6,7,7,6,7,7,7,7,7,6,7,7,7,7,7,5
-exp1-st2-sec1,7,7,7,7,7,7,7,7,7,7,7,6,7,7,7,7,7,6
-exp1-st2-sec2,7,7,7,7,7,7,7,7,7,7,7,6,7,7,7,7,7,7
-exp2-st1-sec1,7,7,6,7,7,6,7,7,7,7,6,5,7,7,7,7,7,1
-exp2-st1-sec2,7,6,6,7,7,7,7,7,7,7,7,4,7,7,7,7,7,0
-exp2-st2-sec1,7,7,7,7,7,7,7,7,7,7,7,5,7,7,7,7,7,0
-exp2-st2-sec2,7,7,7,7,7,7,7,7,7,7,7,6,7,7,7,7,7,0
- Num Events Missed,,,,,,,,,,,,,,,,,,
-trial,2,3,1,0,,1,0,,0,1,0,,0,2,0,3,2,
-exp1-st1-sec1,0,2,1,2,0,1,1,0,0,0,0,2,1,2,0,3,0,3
-exp1-st1-sec2,0,2,2,0,0,4,0,0,0,0,0,2,0,1,0,0,0,4
-exp1-st2-sec1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,8
-exp1-st2-sec2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
-exp2-st1-sec1,0,0,3,0,0,3,0,0,0,0,5,5,0,0,0,0,0,13
-exp2-st1-sec2,0,2,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,14
-exp2-st2-sec1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,14
-exp2-st2-sec2,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,14
- Num of events Missed Low Risk,,,,,,,,,,,,,,,,,,
-trial,0,1,0,0,,0,0,,0,0,0,,0,0,0,1,0,
-exp1-st1-sec1,0,1,1,2,0,1,1,0,0,0,0,2,1,1,0,1,0,2
-exp1-st1-sec2,0,1,1,0,0,3,0,0,0,0,0,1,0,1,0,0,0,2
-exp1-st2-sec1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,7
-exp1-st2-sec2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-exp2-st1-sec1,0,0,2,0,0,2,0,0,0,0,4,3,0,0,0,0,0,7
-exp2-st1-sec2,0,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,7
-exp2-st2-sec1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,7
-exp2-st2-sec2,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,7
- Num of events Missed High Risk,,,,,,,,,,,,,,,,,,
-trial,2,2,1,0,,1,0,,0,1,0,,0,2,0,2,2,
-exp1-st1-sec1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1
-exp1-st1-sec2,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2
-exp1-st2-sec1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
-exp1-st2-sec2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-exp2-st1-sec1,0,0,1,0,0,1,0,0,0,0,1,2,0,0,0,0,0,6
-exp2-st1-sec2,0,1,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,7
-exp2-st2-sec1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,7
-exp2-st2-sec2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,7
- numAlerts (constant for everyone),,,,,,,,,,,,,,,,,,
-trial,4,4,4,4,,4,4,,4,4,4,,4,4,4,4,4,
-exp1-st1-sec1,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14
-exp1-st1-sec2,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14
-exp1-st2-sec1,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17
-exp1-st2-sec2,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17
-exp2-st1-sec1,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17
-exp2-st1-sec2,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17
-exp2-st2-sec1,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20
-exp2-st2-sec2,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20
- numTrueAlertsTotal (constant for everyone),,,,,,,,,,,,,,,,,,
-trial,3,3,3,3,,3,3,,3,3,3,,3,3,3,3,3,
-exp1-st1-sec1,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12
-exp1-st1-sec2,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12
-exp1-st2-sec1,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14
-exp1-st2-sec2,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14
-exp2-st1-sec1,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12
-exp2-st1-sec2,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12
-exp2-st2-sec1,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14
-exp2-st2-sec2,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14
- numFalseAlertsTotal (constant for everyone),,,,,,,,,,,,,,,,,,
-trial,1,1,1,1,,1,1,,1,1,1,,1,1,1,1,1,
-exp1-st1-sec1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-exp1-st1-sec2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-exp1-st2-sec1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
-exp1-st2-sec2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
-exp2-st1-sec1,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
-exp2-st1-sec2,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
-exp2-st2-sec1,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
-exp2-st2-sec2,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
- numAttendedFalse,,,,,,,,,,,,,,,,,,
-trial,1,1,1,1,,0,1,,1,1,1,,1,1,1,1,1,
-exp1-st1-sec1,2,2,2,1,2,2,2,2,2,2,2,2,2,1,2,2,2,1
-exp1-st1-sec2,2,2,2,2,2,2,2,1,2,2,2,1,1,2,2,2,2,1
-exp1-st2-sec1,3,3,3,3,3,2,3,0,3,3,2,3,2,3,3,3,3,2
-exp1-st2-sec2,3,3,3,3,3,2,3,1,3,3,3,2,2,3,3,3,3,3
-exp2-st1-sec1,5,5,5,4,5,5,5,0,5,3,5,4,4,4,5,5,5,1
-exp2-st1-sec2,5,5,5,4,5,5,5,1,5,4,5,5,4,5,4,5,5,0
-exp2-st2-sec1,6,6,6,4,6,6,6,2,6,2,5,5,6,6,6,6,6,0
-exp2-st2-sec2,6,6,6,6,6,6,6,1,6,1,5,6,6,6,5,6,6,0
- numattendedFalsealertLowRisk,,,,,,,,,,,,,,,,,,
-trial,0,0,0,0,,0,0,,0,0,0,,0,0,0,0,0,
-exp1-st1-sec1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0
-exp1-st1-sec2,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1
-exp1-st2-sec1,2,2,2,2,2,1,2,0,2,2,1,2,1,2,2,2,2,2
-exp1-st2-sec2,1,1,1,1,1,0,1,0,1,1,1,1,0,1,1,1,1,1
-exp2-st1-sec1,2,2,2,1,2,2,2,0,2,2,2,2,1,1,2,2,2,0
-exp2-st1-sec2,3,3,3,2,3,3,3,1,3,3,3,3,3,3,2,3,3,0
-exp2-st2-sec1,3,3,3,1,3,3,3,1,3,1,2,2,3,3,3,3,3,0
-exp2-st2-sec2,3,3,3,3,3,3,3,1,3,0,2,3,3,3,3,3,3,0
- numattendedFalsealertHighRisk,,,,,,,,,,,,,,,,,,
-trial,1,1,1,1,,0,1,,1,1,1,,1,1,1,1,1,
-exp1-st1-sec1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1
-exp1-st1-sec2,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0
-exp1-st2-sec1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0
-exp1-st2-sec2,2,2,2,2,2,2,2,1,2,2,2,1,2,2,2,2,2,2
-exp2-st1-sec1,3,3,3,3,3,3,3,0,3,1,3,2,3,3,3,3,3,1
-exp2-st1-sec2,2,2,2,2,2,2,2,0,2,1,2,2,1,2,2,2,2,0
-exp2-st2-sec1,3,3,3,3,3,3,3,1,3,1,3,3,3,3,3,3,3,0
-exp2-st2-sec2,3,3,3,3,3,3,3,0,3,1,3,3,3,3,2,3,3,0
-Earnings,,,,,,,,,,,,,,,,,,
-trial,17,-7,118,102,,154,31,,96,29,92,,110,42,138,0,44,
-exp1-st1-sec1,201,137,90,144,150,183,213,161,136,124,150,31,42,21,146,74,128,-150
-exp1-st1-sec2,169,148,138,217,147,106,148,154,196,149,186,170,258,137,175,192,147,-179
-exp1-st2-sec1,208,252,246,254,202,209,230,157,207,183,216,172,244,215,189,160,212,-134
-exp1-st2-sec2,214,264,254,270,226,51,272,157,196,200,228,224,278,238,187,142,204,186
-exp2-st1-sec1,23,6,-6,48,76,62,12,186,112,182,-16,-88,45,36,127,107,51,-643
-exp2-st1-sec2,156,67,34,156,161,164,46,189,60,129,77,-74,142,147,24,139,133,-659
-exp2-st2-sec1,162,202,150,165,156,170,130,138,124,194,160,10,160,106,156,150,104,-680
-exp2-st2-sec2,80,202,162,177,128,178,138,148,54,196,76,78,180,148,178,155,133,-820
-#check on resident,,,,,,,,,,,,,,,,,,
-exp1-st1-sec1,6,0,1,1,4,1,1,10,2,12,11,4,8,2,12,0,6,13
-exp1-st1-sec2,5,0,0,2,5,0,1,14,9,10,8,0,6,2,9,8,7,2
-exp1-st2-sec1,7,2,0,2,6,1,1,18,3,7,5,0,5,3,8,11,5,0
-exp1-st2-sec2,5,1,0,2,4,1,1,12,3,5,3,0,2,3,5,10,5,0
-exp2-st1-sec1,4,1,0,2,5,0,1,16,7,6,0,0,7,2,5,8,5,0
-exp2-st1-sec2,7,0,0,4,6,2,10,11,5,7,8,0,6,3,5,8,5,0
-exp2-st2-sec1,2,0,0,5,3,2,4,16,7,10,3,0,3,4,3,4,9,0
-exp2-st2-sec2,3,2,0,4,4,2,4,19,12,11,2,0,1,3,4,5,4,0
-#check attend,,,,,,,,,,,,,,,,,,
-exp1-st1-sec1,2,0,1,1,1,1,1,2,1,4,3,1,5,1,2,0,2,2
-exp1-st1-sec2,2,0,0,2,3,0,1,8,2,3,2,0,2,1,2,2,2,2
-exp1-st2-sec1,0,0,0,0,0,1,0,12,0,0,1,0,0,0,0,0,0,0
-exp1-st2-sec2,1,0,0,0,0,1,0,7,0,3,0,0,0,1,2,0,0,0
-exp2-st1-sec1,2,1,0,2,3,0,1,12,2,5,0,0,3,2,2,3,2,0
-exp2-st1-sec2,3,0,0,3,3,1,3,6,1,6,2,0,2,2,4,2,2,0
-exp2-st2-sec1,1,0,0,4,0,1,0,12,0,4,0,0,0,0,0,1,0,0
-exp2-st2-sec2,1,0,0,1,1,0,0,14,0,5,0,0,0,0,1,0,0,0
-#check close,,,,,,,,,,,,,,,,,,
-exp1-st1-sec1,3,0,0,0,3,0,0,8,1,0,9,3,3,1,9,0,4,11
-exp1-st1-sec2,3,0,0,0,2,0,0,6,7,0,6,0,4,1,7,6,5,0
-exp1-st2-sec1,7,0,0,2,6,0,1,6,3,1,4,0,5,3,8,11,5,0
-exp1-st2-sec2,4,0,0,2,4,0,1,5,3,0,3,0,2,2,3,10,5,0
-exp2-st1-sec1,2,0,0,0,2,0,0,4,5,1,0,0,4,0,3,5,3,0
-exp2-st1-sec2,4,0,0,1,3,1,7,5,4,1,6,0,4,1,1,6,3,0
-exp2-st2-sec1,1,0,0,2,3,1,4,4,7,4,3,0,3,4,3,3,9,0
-exp2-st2-sec2,2,1,0,3,3,2,4,5,12,6,2,0,1,3,2,5,4,0
-#attend an alert,,,,,,,,,,,,,,,,,,
-exp1-st1-sec1,14,14,13,10,14,13,14,14,14,12,12,11,9,12,14,13,14,9
-exp1-st1-sec2,14,14,14,14,12,12,14,7,14,13,14,13,13,14,14,14,14,6
-exp1-st2-sec1,17,17,17,17,17,14,17,2,17,17,15,15,16,17,17,17,17,8
-exp1-st2-sec2,16,17,17,17,17,11,17,8,17,14,17,15,16,16,14,17,17,16
-exp2-st1-sec1,17,17,17,15,17,17,17,1,17,11,15,14,14,16,17,17,17,3
-exp2-st1-sec2,16,17,17,13,16,17,16,8,17,10,16,14,15,17,11,17,17,0
-exp2-st2-sec1,19,20,20,15,20,19,20,4,20,12,19,15,20,20,20,19,20,0
-exp2-st2-sec2,18,20,20,19,19,20,20,1,20,10,17,18,20,20,18,20,20,0
-#ignore an alert,,,,,,,,,,,,,,,,,,
-exp1-st1-sec1,0,0,0,3,0,1,0,0,0,1,0,0,5,1,0,0,0,5
-exp1-st1-sec2,0,0,0,0,1,2,0,0,0,0,0,1,1,0,0,0,0,8
-exp1-st2-sec1,0,0,0,0,0,3,0,0,0,0,0,2,1,0,0,0,0,9
-exp1-st2-sec2,0,0,0,0,0,5,0,0,0,0,0,2,1,0,2,0,0,1
-exp2-st1-sec1,0,0,0,2,0,0,0,0,0,1,2,3,2,0,0,0,0,14
-exp2-st1-sec2,1,0,0,4,0,0,1,0,0,0,1,3,2,0,6,0,0,17
-exp2-st2-sec1,0,0,0,5,0,0,0,0,0,0,1,5,0,0,0,0,0,19
-exp2-st2-sec2,0,0,0,1,1,0,0,0,0,0,3,2,0,0,2,0,0,16
+Basic information,1,3,4,5,6,8,13,14,15,16,17,18,19,20,21,22,23,24,42
+What is your gender?,2,1,2,2,2,1,2,2,2,2,2,2,1,2,2,1,1,2,1
+Please indicate your age,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,3,2,1,1
+Please indicate your ethnic background (optional),4,7,7,7,4,6,8,8,8,8,4,7,3,3,7,3,1,7,4
+What is your highest level of education?,4,2,4,7,3,4,4,4,7,7,2,4,4,2,4,3,3,2,5
+How would you rate your technology expertise?,2,2,2,2,2,3,2,2,2,2,3,2,2,3,2,2,3,3,2
+How do you feel about including technology in your life?,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,0,1,1
+How would you rate your experience with smart homes or monitoring devices in homes; such as sensors and Amazon Echo?,1,2,1,1,1,1,2,1,2,1,1,1,2,2,2,1,2,3,1
+Propensity Questions,,,,,,,,,,,,,,,,,,,
+I usually trust machines until there is a reason not to,4,4,4,5,4,2,4,4,3,4,4,4,4,5,4,3,5,4,4
+For the most part; I distrust machines,3,2,2,2,2,3,2,2,3,2,2,2,2,1,2,3,1,2,3
+In general; I would rely on a machine to assist me,4,3,4,5,4,4,4,4,4,4,4,5,3,5,3,2,5,4,4
+My tendency to trust machines is high,2,4,4,5,2,3,4,4,4,4,4,4,4,5,3,3,5,3,4
+It is difficult for me to trust machines to do their job,4,2,2,2,3,2,2,2,4,2,2,2,2,1,2,3,1,2,3
+I am likely to trust a machine even when I have little knowledge about it,1,2,3,2,4,2,2,2,3,3,4,5,2,4,3,3,2,4,4
+PostStageSurveys 1st-ST1,,,,,,,,,,,,,,,,,,,
+How often did you attend to the system's alerts?,5,5,5,4,4,4,5,5,4,5,5,4,4,5,4,4,5,4,4
+How often did you check on the residents?,4,1,3,2,4,2,3,5,4,4,4,2,4,2,3,3,3,4,4
+How much do you think this monitoring system needs to improve so you won't feel the need to check on residents at all?,4,3,2,4,3,3,3,3,2,3,3,4,3,3,3,3,4,4,3
+What is the biggest aspect that needs improvement in this monitoring system? (optional),Not being able to monitor the residents as the monitor did not detect some events that happened,False alerts,,Accuracy,,false reports,,,,missed events,missed events,Its trustworthiness needs to be improved and false alerts need to stop. Mild alerts shouldn't be needed as often..,it's own rating of likelihood that the alert it gives is real,More accurate 'nothing is new'; as it popped up when there was a risk which wasn't reported,the accuracy,false alarms,Missing alerts,Exxperiment poorly explained,
+PLEASE INDICATE HOW MUCH YOU AGREE WITH THE FOLLOWING STATEMENTS.,,,,,,,,,,,,,,,,,,,
+I can rely on this monitoring system to function properly,4,3,5,3,4,4,4,4,4,4,4,4,4,4,4,3,1,1,3
+I know how to use this monitoring system to perform well (even if I don't know exactly how it works) ,4,4,4,3,4,4,4,4,4,4,2,4,4,5,4,4,4,1,3
+I know how to use this monitoring system to take care of the residents (even if I don't know exactly how it works) ,4,4,4,3,4,4,4,4,4,4,3,4,4,5,4,4,1,1,4
+This monitoring system is dependable,3,3,4,3,3,4,4,4,4,4,4,3,4,4,4,4,1,1,2
+I would use such a monitoring system for an elderly family member,2,3,4,3,3,4,4,4,4,4,4,2,4,4,4,3,1,1,1
+This monitoring system's actions will have a harmful outcome,3,2,3,3,2,1,3,2,3,2,2,2,3,1,2,3,5,4,4
+My decisions were the most appropriate ones,4,4,4,4,4,4,4,4,4,4,2,4,3,4,3,4,3,1,3
+PostStageSurveys 1st-ST2,,,,,,,,,,,,,,,,,,,
+How often did you attend to the system's alerts?,5,5,5,5,5,2,5,5,4,5,5,4,5,5,4,5,5,3,1
+How often did you check on the residents?,4,2,2,3,5,2,3,5,3,3,3,1,2,4,4,5,2,3,1
+How much do you think this monitoring system needs to improve so you won't feel the need to check on residents at all?,3,2,2,4,2,4,2,2,2,3,2,3,2,3,3,4,3,3,3
+What is the biggest aspect that needs improvement in this monitoring system? (optional),false alerts,False Alerts,,Accuracy,,false alerts,,,the temperature alert,false alerts,,It functions better than the first system. still; it would need improvement to better the accuracy of the alerts. There are false alerts still being sent out,,When i checked in; everyone was fine,accuracy,false alarm,,,
+PLEASE INDICATE HOW MUCH YOU AGREE WITH THE FOLLOWING STATEMENTS.,,,,,,,,,,,,,,,,,,,
+I can rely on this monitoring system to function properly,3,3,5,3,4,3,5,4,4,4,4,4,5,5,4,3,2,2,3
+I know how to use this monitoring system to perform well (even if I don't know exactly how it works) ,4,4,4,3,4,3,4,4,4,4,4,4,5,5,4,4,2,4,4
+I know how to use this monitoring system to take care of the residents (even if I don't know exactly how it works) ,4,4,5,3,4,4,4,4,4,4,4,4,5,5,4,4,2,4,4
+This monitoring system is dependable,4,3,5,2,4,3,4,4,4,4,4,4,4,5,4,3,2,2,2
+I would use such a monitoring system for an elderly family member,4,4,5,2,4,4,4,4,4,4,4,2,5,5,4,3,2,3,1
+This monitoring system's actions will have a harmful outcome,3,2,2,3,2,2,3,2,3,2,2,2,2,1,2,3,4,3,4
+My decisions were the most appropriate ones,5,4,4,4,4,2,4,4,4,4,3,4,4,5,4,4,5,4,3
+PostStageSurveys 2nd-ST1,,,,,,,,,,,,,,,,,,,
+How often did you attend to the system's alerts?,5,5,5,4,5,5,5,5,5,4,4,3,5,5,2,5,5,3,1
+How often did you check on the residents?,5,2,1,4,5,3,5,4,4,4,3,1,3,4,3,4,4,3,1
+How much do you think this monitoring system needs to improve so you won't feel the need to check on residents at all?,4,4,2,4,4,3,4,3,2,3,4,4,3,4,3,4,4,3,3
+What is the biggest aspect that needs improvement in this monitoring system? (optional),too many false alerts,False Alerts,,Accuracy,,false alerts,too many false alerts/no alerts,,inactive alert,missed events,number of false alerts,This system is worse than the previous 2 systems in the sense that it sends out more false alerts. More false alerts lead to both rounds having a loss rather than profit/bonus. Thus; once again this system needsto improve on its alert system and the truthfulness of the alerts.,immediately getting an alert of someone not being checked for a long time after just checking on residents,Quicker alerts and less false alerts! Some risks were not picked up by the system at all,the event should include the percentage of accuracy for each event,false alarm,,,
+PLEASE INDICATE HOW MUCH YOU AGREE WITH THE FOLLOWING STATEMENTS.,,,,,,,,,,,,,,,,,,,
+I can rely on this monitoring system to function properly,4,2,4,2,2,3,2,4,4,4,2,2,4,4,3,2,3,3,3
+I know how to use this monitoring system to perform well (even if I don't know exactly how it works) ,4,4,4,3,3,4,3,4,4,4,2,2,4,5,4,4,4,2,4
+I know how to use this monitoring system to take care of the residents (even if I don't know exactly how it works) ,4,4,4,3,2,4,2,4,4,4,3,2,4,4,4,4,3,3,2
+This monitoring system is dependable,4,2,3,2,2,3,2,4,4,4,2,1,4,4,3,3,2,1,2
+I would use such a monitoring system for an elderly family member,2,3,4,2,1,2,2,4,4,4,2,1,4,4,4,2,2,3,4
+This monitoring system's actions will have a harmful outcome,3,2,2,3,3,3,4,3,3,2,4,5,2,1,2,3,3,1,4
+My decisions were the most appropriate ones,4,4,3,4,4,4,3,4,4,4,3,2,3,4,2,4,4,4,3
+PostStageSurveys 2nd-ST2,,,,,,,,,,,,,,,,,,,
+How often did you attend to the system's alerts?,5,5,5,5,5,5,5,5,5,4,3,4,5,5,3,5,5,2,1
+How often did you check on the residents?,4,2,1,4,5,3,4,5,4,4,2,1,2,3,3,4,2,3,1
+How much do you think this monitoring system needs to improve so you won't feel the need to check on residents at all?,4,3,2,4,4,3,4,3,3,3,3,3,2,2,3,4,3,2,3
+What is the biggest aspect that needs improvement in this monitoring system? (optional),many false alerts,False Alerts,,Accuracy,,,high risk false alerts,,inactive and temperature alert,false alarm,,,,The false starts. The system is reliable as it mostly did not miss any issues; but there was a great number of false starts which are costly. This also makes you doubt the system so want to check on the residents,,false alarm,False reports,,
+PLEASE INDICATE HOW MUCH YOU AGREE WITH THE FOLLOWING STATEMENTS.,,,,,,,,,,,,,,,,,,,
+I can rely on this monitoring system to function properly,2,3,4,2,2,3,2,4,4,4,4,3,4,5,4,3,3,5,3
+I know how to use this monitoring system to perform well (even if I don't know exactly how it works) ,4,4,4,3,2,4,2,4,4,4,4,4,4,5,4,4,4,1,4
+I know how to use this monitoring system to take care of the residents (even if I don't know exactly how it works) ,4,4,4,3,2,4,2,4,4,4,3,4,4,5,4,4,3,2,3
+This monitoring system is dependable,2,3,4,2,2,2,2,4,4,4,3,3,4,5,4,3,3,5,2
+I would use such a monitoring system for an elderly family member,2,4,4,2,2,2,2,4,4,4,4,2,4,5,4,2,3,5,1
+This monitoring system's actions will have a harmful outcome,3,2,2,3,3,4,3,2,3,2,2,2,2,1,2,3,2,2,4
+My decisions were the most appropriate ones,4,4,4,4,4,4,3,4,4,4,4,4,3,5,4,4,4,5,3
+PostgameSurvey,,,,,,,,,,,,,,,,,,,
+What was your main focus when playing the game? (tick all applicable boxes),,,,,,,,,,,,,,,,,,,
+How difficult was your admin job in the experiment?,4,4,3,3,4,4,4,3,3,4,3,5,3,4,3,4,2,5,3
+How engaged were you with the experiment?,2,2,3,4,4,5,5,4,2,5,4,5,2,4,4,5,2,1,2
+How stressful was the experiment?,3,2,2,2,3,3,3,2,2,3,2,2,2,2,2,3,2,1,3
+How important was it for you to do well in the administration task (card game)?,3,3,3,4,1,3,2,3,3,3,3,4,3,4,3,2,3,1,3
+How important was it for you that the elderly residents are ok?,4,2,4,3,4,2,4,3,4,4,4,3,3,3,4,4,4,1,2
+How did you determine how much you trust the monitoring system?,3,3,3,1,2,1,1,3,3,1,3,1,1,3,3,1,1,3,1
+Was the tutorial video sufficiently helpful for understanding what you need to do?,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2
+Please suggest aspects that should be improved in the experiment (optional),,,,,,better explaneitions abour the consequences,,,temperature alert,,,,seemed odd that attending to events that were alerted from the monitoring system didn't cost resources. It would make more sense that attending any events are costly.,After checking on the elderly and the report was that they were fine; often instantly after there was an alert of a risk,,none,,Explain Properly,
+Number of trials,1,1,1,1,2,1,1,2,1,1,1,2,1,1,1,1,1,2,1
+TrustScores,,,,,,,,,,,,,,,,,,,
+exp1-st1-sec1,4,3,3,3,4,2,4,4,4,3,4,3,4,4,4,2,1,3,2
+exp1-st1-sec2,2,4,4,4,3,4,4,4,4,3,4,4,5,3,4,3,1,1,4
+exp1-st2-sec1,3,3,4,3,4,2,4,4,4,3,4,3,5,4,4,3,2,4,4
+exp1-st2-sec2,3,3,4,2,4,2,4,4,4,4,4,4,5,4,4,2,2,3,4
+exp2-st1-sec1,1,3,3,1,2,2,2,3,4,4,2,2,4,3,3,1,1,4,3
+exp2-st1-sec2,2,2,3,1,2,2,2,3,3,3,2,2,4,3,3,2,2,4,2
+exp2-st2-sec1,2,3,3,2,3,3,3,3,3,3,3,2,4,3,4,2,4,4,1
+exp2-st2-sec2,2,3,3,2,2,2,3,3,3,3,4,3,5,4,4,2,3,4,3
+Frequency Changes,,,,,,,,,,,,,,,,,,,
+exp1-st1-sec1,High,Low,High,High,High,High,High,High,High,High,High,High,High,High,High,High,Disabled,High,Disabled
+exp1-st2-sec1,Low,Disabled,Low,High,High,High,High,High,High,Disabled,High,High,High,Low,Low,High,Disabled,High,Disabled
+exp2-st1-sec1,Low,Disabled,Low,High,High,High,High,High,High,Disabled,Low,High,High,Low,Low,High,Disabled,High,High
+exp2-st2-sec1,Low,Disabled,High,High,High,High,High,High,Low,Disabled,High,Low,High,Low,Low,Low,Low,High,Disabled
+Num Tasks Total (card game),,,,,,,,,,,,,,,,,,,
+trial,14,8,15,14,,16,14,,13,11,14,,16,15,15,13,16,,15
+exp1-st1-sec1,51,46,55,55,52,54,54,48,52,48,50,52,52,51,49,53,50,51,51
+exp1-st1-sec2,50,52,53,48,51,52,50,48,50,47,47,53,50,48,50,50,52,56,49
+exp1-st2-sec1,48,49,52,47,48,52,47,49,46,48,49,51,50,46,48,50,50,55,50
+exp1-st2-sec2,51,49,50,51,49,52,51,50,51,51,51,51,51,48,51,49,50,51,52
+exp2-st1-sec1,50,45,51,52,49,52,52,54,48,54,53,52,52,50,51,48,48,56,53
+exp2-st1-sec2,52,48,49,51,51,51,47,52,49,54,49,51,49,49,52,46,49,57,50
+exp2-st2-sec1,46,47,46,49,47,46,47,51,47,52,48,50,46,45,47,46,45,57,44
+exp2-st2-sec2,50,50,49,49,50,48,47,51,48,53,45,50,48,49,52,48,46,3,51
+ Num Tasks Correct (card game),,,,,,,,,,,,,,,,,,,
+trial,12,8,14,14,,15,11,,13,10,13,,15,14,14,13,15,,15
+exp1-st1-sec1,48,45,44,55,46,52,52,43,45,41,47,47,45,44,44,52,39,39,47
+exp1-st1-sec2,45,49,48,48,45,52,45,45,47,41,43,49,49,45,46,47,47,50,46
+exp1-st2-sec1,47,47,45,46,45,51,42,48,41,44,44,48,48,42,46,47,46,50,47
+exp1-st2-sec2,49,48,46,51,47,51,50,44,43,46,47,50,50,47,47,44,46,44,47
+exp2-st1-sec1,44,43,43,52,45,52,47,53,45,52,51,48,44,46,50,45,46,38,51
+exp2-st1-sec2,50,44,40,51,47,48,39,50,43,50,40,49,45,45,50,44,47,37,45
+exp2-st2-sec1,42,45,38,49,43,43,41,49,44,49,42,49,43,37,43,43,43,38,41
+exp2-st2-sec2,47,49,41,49,45,45,42,51,42,49,41,49,44,43,47,46,41,3,49
+ Num Tasks Wrong (card game),,,,,,,,,,,,,,,,,,,
+trial,2,0,1,0,,1,3,,0,1,1,,1,1,1,0,1,,0
+exp1-st1-sec1,3,1,11,0,6,2,2,5,7,7,3,5,7,7,5,1,11,12,4
+exp1-st1-sec2,5,3,5,0,6,0,5,3,3,6,4,4,1,3,4,3,5,6,3
+exp1-st2-sec1,1,2,7,1,3,1,5,1,5,4,5,3,2,4,2,3,4,5,3
+exp1-st2-sec2,2,1,4,0,2,1,1,6,8,5,4,1,1,1,4,5,4,7,5
+exp2-st1-sec1,6,2,8,0,4,0,5,1,3,2,2,4,8,4,1,3,2,18,2
+exp2-st1-sec2,2,4,9,0,4,3,8,2,6,4,9,2,4,4,2,2,2,20,5
+exp2-st2-sec1,4,2,8,0,4,3,6,2,3,3,6,1,3,8,4,3,2,19,3
+exp2-st2-sec2,3,1,8,0,5,3,5,0,6,4,4,1,4,6,5,2,5,0,2
+ Num Attended Total,,,,,,,,,,,,,,,,,,,
+trial,3,2,4,5,,4,5,,5,4,5,,5,3,5,2,3,,5
+exp1-st1-sec1,14,12,13,12,14,13,13,14,14,14,14,12,13,12,14,11,14,11,14
+exp1-st1-sec2,14,12,12,14,14,10,14,14,14,14,14,12,14,13,14,14,14,10,14
+exp1-st2-sec1,14,14,14,14,14,14,14,14,14,14,14,12,14,14,14,14,14,6,14
+exp1-st2-sec2,14,14,14,14,14,14,14,14,14,14,14,13,14,14,14,14,14,13,14
+exp2-st1-sec1,15,15,12,15,15,12,15,15,15,15,10,10,15,15,15,15,15,2,12
+exp2-st1-sec2,14,12,12,14,14,14,14,14,14,14,14,9,14,14,14,14,14,0,12
+exp2-st2-sec1,14,14,14,14,14,14,14,14,14,14,14,10,14,14,14,14,14,0,14
+exp2-st2-sec2,14,14,14,14,14,14,14,14,14,14,12,12,14,14,14,14,14,0,14
+ Num Attended Low Risk,,,,,,,,,,,,,,,,,,,
+trial,2,1,2,2,,2,2,,2,2,2,,2,2,2,1,2,,2
+exp1-st1-sec1,7,6,6,5,7,6,6,7,7,7,7,5,6,6,7,6,7,5,7
+exp1-st1-sec2,7,6,6,7,7,4,7,7,7,7,7,6,7,6,7,7,7,5,7
+exp1-st2-sec1,7,7,7,7,7,7,7,7,7,7,7,6,7,7,7,7,7,0,7
+exp1-st2-sec2,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,6,7
+exp2-st1-sec1,8,8,6,8,8,6,8,8,8,8,4,5,8,8,8,8,8,1,6
+exp2-st1-sec2,7,6,6,7,7,7,7,7,7,7,7,5,7,7,7,7,7,0,6
+exp2-st2-sec1,7,7,7,7,7,7,7,7,7,7,7,5,7,7,7,7,7,0,7
+exp2-st2-sec2,7,7,7,7,7,7,7,7,7,7,5,6,7,7,7,7,7,0,7
+ Num Attended High Risk,,,,,,,,,,,,,,,,,,,
+trial,1,1,2,3,,2,3,,3,2,3,,3,1,3,1,1,,3
+exp1-st1-sec1,7,6,7,7,7,7,7,7,7,7,7,7,7,6,7,5,7,6,7
+exp1-st1-sec2,7,6,6,7,7,6,7,7,7,7,7,6,7,7,7,7,7,5,7
+exp1-st2-sec1,7,7,7,7,7,7,7,7,7,7,7,6,7,7,7,7,7,6,7
+exp1-st2-sec2,7,7,7,7,7,7,7,7,7,7,7,6,7,7,7,7,7,7,7
+exp2-st1-sec1,7,7,6,7,7,6,7,7,7,7,6,5,7,7,7,7,7,1,6
+exp2-st1-sec2,7,6,6,7,7,7,7,7,7,7,7,4,7,7,7,7,7,0,6
+exp2-st2-sec1,7,7,7,7,7,7,7,7,7,7,7,5,7,7,7,7,7,0,7
+exp2-st2-sec2,7,7,7,7,7,7,7,7,7,7,7,6,7,7,7,7,7,0,7
+ Num Events Missed,,,,,,,,,,,,,,,,,,,
+trial,2,3,1,0,,1,0,,0,1,0,,0,2,0,3,2,,0
+exp1-st1-sec1,0,2,1,2,0,1,1,0,0,0,0,2,1,2,0,3,0,3,0
+exp1-st1-sec2,0,2,2,0,0,4,0,0,0,0,0,2,0,1,0,0,0,4,0
+exp1-st2-sec1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,8,0
+exp1-st2-sec2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+exp2-st1-sec1,0,0,3,0,0,3,0,0,0,0,5,5,0,0,0,0,0,13,3
+exp2-st1-sec2,0,2,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,14,2
+exp2-st2-sec1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,14,0
+exp2-st2-sec2,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,14,0
+ Num of events Missed Low Risk,,,,,,,,,,,,,,,,,,,
+trial,0,1,0,0,,0,0,,0,0,0,,0,0,0,1,0,,0
+exp1-st1-sec1,0,1,1,2,0,1,1,0,0,0,0,2,1,1,0,1,0,2,0
+exp1-st1-sec2,0,1,1,0,0,3,0,0,0,0,0,1,0,1,0,0,0,2,0
+exp1-st2-sec1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,7,0
+exp1-st2-sec2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+exp2-st1-sec1,0,0,2,0,0,2,0,0,0,0,4,3,0,0,0,0,0,7,2
+exp2-st1-sec2,0,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,7,1
+exp2-st2-sec1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,7,0
+exp2-st2-sec2,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,7,0
+ Num of events Missed High Risk,,,,,,,,,,,,,,,,,,,
+trial,2,2,1,0,,1,0,,0,1,0,,0,2,0,2,2,,0
+exp1-st1-sec1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1,0
+exp1-st1-sec2,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2,0
+exp1-st2-sec1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+exp1-st2-sec2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+exp2-st1-sec1,0,0,1,0,0,1,0,0,0,0,1,2,0,0,0,0,0,6,1
+exp2-st1-sec2,0,1,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,7,1
+exp2-st2-sec1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,7,0
+exp2-st2-sec2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,7,0
+ numAlerts (constant for everyone),,,,,,,,,,,,,,,,,,,
+trial,4,4,4,4,,4,4,,4,4,4,,4,4,4,4,4,,4
+exp1-st1-sec1,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14
+exp1-st1-sec2,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14
+exp1-st2-sec1,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17
+exp1-st2-sec2,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17
+exp2-st1-sec1,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17
+exp2-st1-sec2,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17
+exp2-st2-sec1,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20
+exp2-st2-sec2,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20
+ numTrueAlertsTotal (constant for everyone),,,,,,,,,,,,,,,,,,,
+trial,3,3,3,3,,3,3,,3,3,3,,3,3,3,3,3,,3
+exp1-st1-sec1,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12
+exp1-st1-sec2,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12
+exp1-st2-sec1,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14
+exp1-st2-sec2,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14
+exp2-st1-sec1,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12
+exp2-st1-sec2,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12
+exp2-st2-sec1,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14
+exp2-st2-sec2,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14
+ numFalseAlertsTotal (constant for everyone),,,,,,,,,,,,,,,,,,,
+trial,1,1,1,1,,1,1,,1,1,1,,1,1,1,1,1,,1
+exp1-st1-sec1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+exp1-st1-sec2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+exp1-st2-sec1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+exp1-st2-sec2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+exp2-st1-sec1,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+exp2-st1-sec2,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+exp2-st2-sec1,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+exp2-st2-sec2,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+ numAttendedFalse,,,,,,,,,,,,,,,,,,,
+trial,1,1,1,1,,0,1,,1,1,1,,1,1,1,1,1,,1
+exp1-st1-sec1,2,2,2,1,2,2,2,2,2,2,2,2,2,1,2,2,2,1,2
+exp1-st1-sec2,2,2,2,2,2,2,2,1,2,2,2,1,1,2,2,2,2,1,2
+exp1-st2-sec1,3,3,3,3,3,2,3,0,3,3,2,3,2,3,3,3,3,2,3
+exp1-st2-sec2,3,3,3,3,3,2,3,1,3,3,3,2,2,3,3,3,3,3,3
+exp2-st1-sec1,5,5,5,4,5,5,5,0,5,3,5,4,4,4,5,5,5,1,5
+exp2-st1-sec2,5,5,5,4,5,5,5,1,5,4,5,5,4,5,4,5,5,0,4
+exp2-st2-sec1,6,6,6,4,6,6,6,2,6,2,5,5,6,6,6,6,6,0,6
+exp2-st2-sec2,6,6,6,6,6,6,6,1,6,1,5,6,6,6,5,6,6,0,6
+ numattendedFalsealertLowRisk,,,,,,,,,,,,,,,,,,,
+trial,0,0,0,0,,0,0,,0,0,0,,0,0,0,0,0,,0
+exp1-st1-sec1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1
+exp1-st1-sec2,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1
+exp1-st2-sec1,2,2,2,2,2,1,2,0,2,2,1,2,1,2,2,2,2,2,2
+exp1-st2-sec2,1,1,1,1,1,0,1,0,1,1,1,1,0,1,1,1,1,1,1
+exp2-st1-sec1,2,2,2,1,2,2,2,0,2,2,2,2,1,1,2,2,2,0,2
+exp2-st1-sec2,3,3,3,2,3,3,3,1,3,3,3,3,3,3,2,3,3,0,2
+exp2-st2-sec1,3,3,3,1,3,3,3,1,3,1,2,2,3,3,3,3,3,0,3
+exp2-st2-sec2,3,3,3,3,3,3,3,1,3,0,2,3,3,3,3,3,3,0,3
+ numattendedFalsealertHighRisk,,,,,,,,,,,,,,,,,,,
+trial,1,1,1,1,,0,1,,1,1,1,,1,1,1,1,1,,1
+exp1-st1-sec1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1
+exp1-st1-sec2,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1
+exp1-st2-sec1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1
+exp1-st2-sec2,2,2,2,2,2,2,2,1,2,2,2,1,2,2,2,2,2,2,2
+exp2-st1-sec1,3,3,3,3,3,3,3,0,3,1,3,2,3,3,3,3,3,1,3
+exp2-st1-sec2,2,2,2,2,2,2,2,0,2,1,2,2,1,2,2,2,2,0,2
+exp2-st2-sec1,3,3,3,3,3,3,3,1,3,1,3,3,3,3,3,3,3,0,3
+exp2-st2-sec2,3,3,3,3,3,3,3,0,3,1,3,3,3,3,2,3,3,0,3
+Earnings,,,,,,,,,,,,,,,,,,,
+trial,17,-7,118,102,,154,31,,96,29,92,,110,42,138,0,44,,136
+exp1-st1-sec1,201,137,90,144,150,183,213,161,136,124,150,31,42,21,146,74,128,-150,116
+exp1-st1-sec2,169,148,138,217,147,106,148,154,196,149,186,170,258,137,175,192,147,-179,145
+exp1-st2-sec1,208,252,246,254,202,209,230,157,207,183,216,172,244,215,189,160,212,-134,270
+exp1-st2-sec2,214,264,254,270,226,51,272,157,196,200,228,224,278,238,187,142,204,186,254
+exp2-st1-sec1,23,6,-6,48,76,62,12,186,112,182,-16,-88,45,36,127,107,51,-643,50
+exp2-st1-sec2,156,67,34,156,161,164,46,189,60,129,77,-74,142,147,24,139,133,-659,86
+exp2-st2-sec1,162,202,150,165,156,170,130,138,124,194,160,10,160,106,156,150,104,-680,182
+exp2-st2-sec2,80,202,162,177,128,178,138,148,54,196,76,78,180,148,178,155,133,-820,218
+#check on resident,,,,,,,,,,,,,,,,,,,
+exp1-st1-sec1,6,0,1,1,4,1,1,10,2,12,11,4,8,2,12,0,6,13,7
+exp1-st1-sec2,5,0,0,2,5,0,1,14,9,10,8,0,6,2,9,8,7,2,4
+exp1-st2-sec1,7,2,0,2,6,1,1,18,3,7,5,0,5,3,8,11,5,0,0
+exp1-st2-sec2,5,1,0,2,4,1,1,12,3,5,3,0,2,3,5,10,5,0,0
+exp2-st1-sec1,4,1,0,2,5,0,1,16,7,6,0,0,7,2,5,8,5,0,0
+exp2-st1-sec2,7,0,0,4,6,2,10,11,5,7,8,0,6,3,5,8,5,0,0
+exp2-st2-sec1,2,0,0,5,3,2,4,16,7,10,3,0,3,4,3,4,9,0,0
+exp2-st2-sec2,3,2,0,4,4,2,4,19,12,11,2,0,1,3,4,5,4,0,0
+#check attend,,,,,,,,,,,,,,,,,,,
+exp1-st1-sec1,2,0,1,1,1,1,1,2,1,4,3,1,5,1,2,0,2,2,3
+exp1-st1-sec2,2,0,0,2,3,0,1,8,2,3,2,0,2,1,2,2,2,2,2
+exp1-st2-sec1,0,0,0,0,0,1,0,12,0,0,1,0,0,0,0,0,0,0,0
+exp1-st2-sec2,1,0,0,0,0,1,0,7,0,3,0,0,0,1,2,0,0,0,0
+exp2-st1-sec1,2,1,0,2,3,0,1,12,2,5,0,0,3,2,2,3,2,0,0
+exp2-st1-sec2,3,0,0,3,3,1,3,6,1,6,2,0,2,2,4,2,2,0,0
+exp2-st2-sec1,1,0,0,4,0,1,0,12,0,4,0,0,0,0,0,1,0,0,0
+exp2-st2-sec2,1,0,0,1,1,0,0,14,0,5,0,0,0,0,1,0,0,0,0
+#check close,,,,,,,,,,,,,,,,,,,
+exp1-st1-sec1,3,0,0,0,3,0,0,8,1,0,9,3,3,1,9,0,4,11,4
+exp1-st1-sec2,3,0,0,0,2,0,0,6,7,0,6,0,4,1,7,6,5,0,2
+exp1-st2-sec1,7,0,0,2,6,0,1,6,3,1,4,0,5,3,8,11,5,0,0
+exp1-st2-sec2,4,0,0,2,4,0,1,5,3,0,3,0,2,2,3,10,5,0,0
+exp2-st1-sec1,2,0,0,0,2,0,0,4,5,1,0,0,4,0,3,5,3,0,0
+exp2-st1-sec2,4,0,0,1,3,1,7,5,4,1,6,0,4,1,1,6,3,0,0
+exp2-st2-sec1,1,0,0,2,3,1,4,4,7,4,3,0,3,4,3,3,9,0,0
+exp2-st2-sec2,2,1,0,3,3,2,4,5,12,6,2,0,1,3,2,5,4,0,0
+#attend an alert,,,,,,,,,,,,,,,,,,,
+exp1-st1-sec1,14,14,13,10,14,13,14,14,14,12,12,11,9,12,14,13,14,9,13
+exp1-st1-sec2,14,14,14,14,12,12,14,7,14,13,14,13,13,14,14,14,14,6,13
+exp1-st2-sec1,17,17,17,17,17,14,17,2,17,17,15,15,16,17,17,17,17,8,17
+exp1-st2-sec2,16,17,17,17,17,11,17,8,17,14,17,15,16,16,14,17,17,16,17
+exp2-st1-sec1,17,17,17,15,17,17,17,1,17,11,15,14,14,16,17,17,17,3,17
+exp2-st1-sec2,16,17,17,13,16,17,16,8,17,10,16,14,15,17,11,17,17,0,16
+exp2-st2-sec1,19,20,20,15,20,19,20,4,20,12,19,15,20,20,20,19,20,0,20
+exp2-st2-sec2,18,20,20,19,19,20,20,1,20,10,17,18,20,20,18,20,20,0,20
+#ignore an alert,,,,,,,,,,,,,,,,,,,
+exp1-st1-sec1,0,0,0,3,0,1,0,0,0,1,0,0,5,1,0,0,0,5,0
+exp1-st1-sec2,0,0,0,0,1,2,0,0,0,0,0,1,1,0,0,0,0,8,0
+exp1-st2-sec1,0,0,0,0,0,3,0,0,0,0,0,2,1,0,0,0,0,9,0
+exp1-st2-sec2,0,0,0,0,0,5,0,0,0,0,0,2,1,0,2,0,0,1,0
+exp2-st1-sec1,0,0,0,2,0,0,0,0,0,1,2,3,2,0,0,0,0,14,0
+exp2-st1-sec2,1,0,0,4,0,0,1,0,0,0,1,3,2,0,6,0,0,17,0
+exp2-st2-sec1,0,0,0,5,0,0,0,0,0,0,1,5,0,0,0,0,0,19,0
+exp2-st2-sec2,0,0,0,1,1,0,0,0,0,0,3,2,0,0,2,0,0,16,0
